@@ -84,7 +84,6 @@ class ProfileHeader extends Component {
                     href={profile.social.instagram}
                     target="_blank"
                   >
-
                     <i className="fab fa-instagram fa-2x" />
                   </a>
                 )}
